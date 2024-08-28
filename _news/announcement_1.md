@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-08-27 10:50:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Launching my Portfolio and blog site! :sparkles: :smile:
