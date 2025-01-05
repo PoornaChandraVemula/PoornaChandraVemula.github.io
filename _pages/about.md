@@ -21,11 +21,13 @@ social: true # includes social icons at the bottom of the page
 
 I'm Poorna Chandra, a graduate student in Artificial Intelligence at Khoury College of Computer Sciences, Northeastern University. 
 
-I am currently equipping myself to solve world's problems using computer science and AI. I am generally interested in ideating, designing and building applications that serves purpose.
+I am currently working as an Engineer at Traceable improving Threat detection and mitigation across various usecases such as API and bot protection.
 
-I’m currently open for Full time opportunities in the areas of Software Engineering, Machine Learning, Gen-AI and LLMs starting from Jan 2025.
+I am generally interested in ideating, designing and building applications that scale. Further, Interested in the areas of LLMs, Computer Vision and Robotics.
 
-I'm best reached via [email](mailto:developer.poornachandra@gmail.com). I'm always open to have interesting conversations and collaborations.
+I'm always open to have interesting conversations and collaborations.
+
+I'm best reached via [email](mailto:developer.poornachandra@gmail.com).
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
